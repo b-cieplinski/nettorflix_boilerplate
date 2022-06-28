@@ -1,4 +1,4 @@
-Deployed Demo: nettorflix-boilerplate.vercel.app
+Deployed Demo: [https://nettorflix-boilerplate.vercel.app] (https://nettorflix-boilerplate.vercel.app)
 
 # Getting Started with Create React App
 
